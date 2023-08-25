@@ -1,2 +1,2 @@
-pygame
-pygame_menu
+pygame == 2.1.2
+pygame_menu == 2.1.2
